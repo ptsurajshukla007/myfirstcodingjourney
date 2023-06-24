@@ -1,0 +1,2 @@
+# myfirstcodingjourney
+A basic Project
